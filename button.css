@@ -1,0 +1,39 @@
+.btn-outline-primary{
+    display: inline-flex;
+    padding: 16px 30px;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    background-color: #6C63FF;
+    color: #ffffff;
+    font-size: 14px;
+    align-items: center;
+}
+.btn-outline-secondary {
+    display: inline-flex;
+    padding: 16px 30px;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+    font-size: 14px;
+    align-items: center;
+}
+.btn-outline-info {
+    display: inline-flex;
+    padding-right: 16px 30px;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+    font-size: 14px;
+    align-items: center;
+
+
+}
+
+
+

@@ -1,0 +1,21 @@
+h1 {
+    color: #2F2E41;    
+    font-family: "Playfair Display";
+    font-size: 86px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 88px;
+    letter-spacing: -1px;
+}
+h2 {
+    color: #2F2E41;
+    font-family: "Playfair Display";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 64px;
+    letter-spacing: -1px;
+}
+.mt-220{
+    margin-top: 220px;
+}
